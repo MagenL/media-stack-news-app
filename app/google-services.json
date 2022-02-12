@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "136228208356",
+    "project_id": "msapps-21d65",
+    "storage_bucket": "msapps-21d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136228208356:android:0344260ee77ecbec5e76f1",
+        "android_client_info": {
+          "package_name": "amagen.magen.mediastacknews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136228208356-iomor9bq7ac589d007lh91i6p3njn88d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amagen.magen.mediastacknews",
+            "certificate_hash": "b763270e83e43e1f6c71743ebc66c6fb57fd50a9"
+          }
+        },
+        {
+          "client_id": "136228208356-eobh9p57s7nrlu1rknt8gq88547voioo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7dT3Zz0p6bYH3yAVMF_zgSr7I3K9P6mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136228208356-eobh9p57s7nrlu1rknt8gq88547voioo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

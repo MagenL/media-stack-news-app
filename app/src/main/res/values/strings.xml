@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaStackNEWS</string>
+    <string name="articles">Articles</string>
+    <string name="favorite_articles">favorite articles</string>
+    <string name="category_and_description">%s %20 - %20 %s</string>
+    <string name="article_image">article image</string>
+    <string name="s_published_at_s">%s | published at %s</string>
+    <string name="sign_in_to_google_to_view_favorite_articles">Sign in to google to view favorite articles</string>
+</resources>
